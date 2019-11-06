@@ -1,0 +1,15 @@
+本次更新-V1.0.0
+ZFJPyMix具有混淆文件名、混淆类名、混淆属性变量名、混淆方法名和删除注释来混淆Python源码!
+
+教学视频:
+链接:https://pan.baidu.com/s/1MEq-vyt_CMSLBdrI3PT6Yg 密码:tvbr
+
+详细说明:
+ZFJPyMix-Python代码混淆加密
+https://zfj1128.blog.csdn.net/article/details/102825025
+
+下载地址：
+https://gitee.com/zfj1128/ZFJPyMix
+
+备注：
+如果可以请去给我的博客和git点个赞👍👍👍！

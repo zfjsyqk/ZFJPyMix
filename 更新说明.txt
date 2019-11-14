@@ -1,5 +1,7 @@
-本次更新-V1.0.0
-ZFJPyMix具有混淆文件名、混淆类名、混淆属性变量名、混淆方法名和删除注释来混淆Python源码!
+本次更新-V1.0.1
+1.优化函数混淆,过滤‘__’开头函数；
+2.优化网络服务更换https；
+3.优化登录注册UI视图；
 
 教学视频:
 链接:https://pan.baidu.com/s/1MEq-vyt_CMSLBdrI3PT6Yg 密码:tvbr

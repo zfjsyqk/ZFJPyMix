@@ -1,7 +1,6 @@
 # ZFJPyMix - 免费的Python代码混淆加密软件
 
 ### ZFJ_张福杰QQ：2723834718
-### ZFJ开发交流群：751625230
 ### 官网地址：http://zfjpymix.top
 ### 博客地址：http://zfj1128.blog.csdn.net
 ### 详细说明：https://zfj1128.blog.csdn.net/article/details/102825025
